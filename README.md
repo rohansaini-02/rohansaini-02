@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭I'm currently working on contributing to Open Source Projects<br>🧑‍🤝‍🧑I'm looking to collaborate on impactful open-source contributors<br>🤝I'm looking for help with learning and growing<br>🌱I'm currently learning Java<br>💬Ask me about :rohansaini0916@gmail.com<br>⚡Fun fact :I'm always eager to learn new things and improve my skills
+🔭I'm currently working on contributing to Open Source Projects<br>🧑‍🤝‍🧑I'm looking to collaborate on impactful open-source contributors<br>🤝I'm looking for help with learning and growing<br>🌱I'm currently learning React.Js, Node.Js,Express,Js<br>💬Ask me about :rohansaini0916@gmail.com<br>⚡Fun fact :I'm always eager to learn new things and improve my skills
 
 
 ## 🌐 Socials:
