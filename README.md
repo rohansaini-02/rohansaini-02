@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on building full-stack applications using the MERN stack and exploring real-world problem solving  <br><br>🧑‍🤝‍🧑 I’m looking to collaborate on impactful open-source projects and developer-focused tools  <br><br>🤝 I’m looking for help with learning and growing in Machine Learning and system design  <br><br>🌱 I’m currently learning Machine Learning and Go while leveling up my Full Stack (MERN) skills<br><br>💬 Ask me about: rohansaini2299@gmail.com<br><br>⚡ Fun fact: I start building first and figure things out along the way 
+🔭 I’m currently working on building full-stack applications using the MERN stack and exploring real-world problem solving  <br>🧑‍🤝‍🧑 I’m looking to collaborate on impactful open-source projects and developer-focused tools  <br>🤝 I’m looking for help with learning and growing in Machine Learning and system design  <br>🌱 I’m currently learning Machine Learning and Go while leveling up my Full Stack (MERN) skills<br>💬 Ask me about: rohansaini2299@gmail.com<br>⚡ Fun fact: I start building first and figure things out along the way 
 
 
 ## 🌐 Socials:
